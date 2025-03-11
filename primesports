@@ -1,0 +1,144 @@
+#EXTM3U
+#EXTINF:-1 group-title="Astro Malaysiad "123" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/astro-supersport-1-us.png" tvg-name="Astro SuperSport 1",Astro SuperSport 1
+https://zeko.iosplayer.ru/zeko/premium123/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="124" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/astro-supersport-2-us.png" tvg-name="Astro SuperSport 2",Astro SuperSport 2
+https://wind.iosplayer.ru/wind/premium124/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="125" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/astro-supersport-3-us.png" tvg-name="Astro SuperSport 3",Astro SuperSport 3
+https://zeko.iosplayer.ru/zeko/premium125/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="126" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/astro-supersport-4-us.png" tvg-name="Astro SuperSport 4",Astro SuperSport 4
+https://zeko.iosplayer.ru/zeko/premium126/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="134" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/arena-sport-1-premium-us.png" tvg-name="Arena Sport 1 Premium",Arena Sport 1 Premium
+https://wind.iosplayer.ru/wind/premium134/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="135" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/arena-sport-2-premium-us.png" tvg-name="Arena Sport 2 Premium",Arena Sport 2 Premium
+https://ddy6.iosplayer.ru/ddy6/premium135/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="139" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/arena-sport-3-premium-us.png" tvg-name="Arena Sport 3 Premium",Arena Sport 3 Premium
+https://ddy6.iosplayer.ru/ddy6/premium139/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="600" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abu-dhabi-sports-1-uae-us.png" tvg-name="Abu Dhabi Sports 1 UAE",Abu Dhabi Sports 1 UAE
+https://wind.iosplayer.ru/wind/premium600/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="601" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abu-dhabi-sports-2-uae-us.png" tvg-name="Abu Dhabi Sports 2 UAE",Abu Dhabi Sports 2 UAE
+https://dokko1.iosplayer.ru/dokko1/premium601/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="609" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abu-dhabi-sports-1-premium-us.png" tvg-name="Abu Dhabi Sports 1 Premium",Abu Dhabi Sports 1 Premium
+https://dokko1.iosplayer.ru/dokko1/premium609/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="610" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abu-dhabi-sports-2-premium-us.png" tvg-name="Abu Dhabi Sports 2 Premium",Abu Dhabi Sports 2 Premium
+https://dokko1.iosplayer.ru/dokko1/premium610/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="370" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/astro-cricket-us.png" tvg-name="Astro Cricket",Astro Cricket
+https://zeko.iosplayer.ru/zeko/premium370/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="61" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-mena-english-1-us.png" tvg-name="beIN Sports MENA English 1",beIN Sports MENA English 1
+https://wind.iosplayer.ru/wind/premium61/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="46" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-mena-english-3-us.png" tvg-name="beIN Sports MENA English 3",beIN Sports MENA English 3
+https://wind.iosplayer.ru/wind/premium46/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="425" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-usa-us.png" tvg-name="BeIN SPORTS USA",BeIN SPORTS USA
+https://zeko.iosplayer.ru/zeko/premium425/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="491" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-australia-1-us.png" tvg-name="beIN SPORTS Australia 1",beIN SPORTS Australia 1
+https://ddy6.iosplayer.ru/ddy6/premium491/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="492" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-australia-2-us.png" tvg-name="beIN SPORTS Australia 2",beIN SPORTS Australia 2
+https://ddy6.iosplayer.ru/ddy6/premium492/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="493" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-australia-3-us.png" tvg-name="beIN SPORTS Australia 3",beIN SPORTS Australia 3
+https://ddy6.iosplayer.ru/ddy6/premium493/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="44" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-usa-us.png" tvg-name="ESPN USA",ESPN USA
+https://zeko.iosplayer.ru/zeko/premium44/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="45" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn2-usa-us.png" tvg-name="ESPN2 USA",ESPN2 USA
+https://wind.iosplayer.ru/wind/premium45/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="316" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espnu-usa-us.png" tvg-name="ESPNU USA",ESPNU USA
+https://zeko.iosplayer.ru/zeko/premium316/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="41" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/eurosport-1-uk-us.png" tvg-name="EuroSport 1 UK",EuroSport 1 UK
+https://wind.iosplayer.ru/wind/premium41/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="42" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/eurosport-2-uk-us.png" tvg-name="EuroSport 2 UK",EuroSport 2 UK
+https://wind.iosplayer.ru/wind/premium57/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="39" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-usa-us.png" tvg-name="Fox Sports 1 USA",Fox Sports 1 USA
+https://zeko.iosplayer.ru/zeko/premium39/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="758" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-usa-us.png" tvg-name="Fox Sports 2 USA",Fox Sports 2 USA
+https://zeko.iosplayer.ru/zeko/premium758/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="756" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" tvg-name="FOX Soccer Plus",FOX Soccer Plus
+https://ddy6.iosplayer.ru/ddy6/premium756/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="369" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-cricket-us.png" tvg-name="Fox Cricket",Fox Cricket
+https://ddy6.iosplayer.ru/ddy6/premium369/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="820" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-502-au-us.png" tvg-name="FOX Sports 502 AU",FOX Sports 502 AU
+https://zeko.iosplayer.ru/zeko/premium820/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="821" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-503-au-us.png" tvg-name="FOX Sports 503 AU",FOX Sports 503 AU
+https://zeko.iosplayer.ru/zeko/premium821/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="822" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-504-au-us.png" tvg-name="FOX Sports 504 AU",FOX Sports 504 AU
+https://zeko.iosplayer.ru/zeko/premium822/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="823" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-505-au-us.png" tvg-name="FOX Sports 505 AU",FOX Sports 505 AU
+https://wind.iosplayer.ru/wind/premium823/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="824" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-506-au-us.png" tvg-name="FOX Sports 506 AU",FOX Sports 506 AU
+https://wind.iosplayer.ru/wind/premium824/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="825" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-507-au-us.png" tvg-name="FOX Sports 507 AU",FOX Sports 507 AU
+https://wind.iosplayer.ru/wind/premium825/mono.m3u8
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-uk.png" tvg-name="Sky Sports Football",Sky Sports Football
+https://zeko.iosplayer.ru/zeko/premium35/mono.m3u8
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="12358" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-arena-uk.png" tvg-name="Sky Sports Arena",Sky Sports Arena
+https://zeko.iosplayer.ru/zeko/premium36/mono.m3u8
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-uk.png" tvg-name="Sky Sports Action",Sky Sports Action
+https://nfs.iosplayer.ru/nfs/premium37/mono.m3u8
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/sky-sports-main-event-hd-uk.png" tvg-name="Sky Sports Main Event",Sky Sports Main Event
+https://zeko.iosplayer.ru/zeko/premium38/mono.m3u8
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.PL.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" tvg-name="Sky sports Premier League",Sky sports Premier League
+https://dokko1.iosplayer.ru/dokko1/premium130/mono.m3u8
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" tvg-name="Sky Sports F1",Sky Sports F1
+https://wind.iosplayer.ru/wind/premium60/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="65" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sky-sports-cricket-us.png" tvg-name="Sky Sports Cricket",Sky Sports Cricket
+https://dokko1.iosplayer.ru/dokko1/premium65/mono.m3u8
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png" tvg-name="Sky Sports Golf",Sky Sports Golf
+https://wind.iosplayer.ru/wind/premium70/mono.m3u8
+#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="Sky.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-uk.png" tvg-name="Sky Sports MIX",Sky Sports MIX
+https://ddy6.iosplayer.ru/ddy6/premium449/mono.m3u8
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-racing-uk.png?raw=true" tvg-name="Sky Sports Racing",Sky Sports Racing
+https://wind.iosplayer.ru/wind/premium554/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="588" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sky-sport-1-nz-us.png" tvg-name="Sky Sport 1 NZ",Sky Sport 1 NZ
+https://dokko1.iosplayer.ru/dokko1/premium588/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="589" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sky-sport-2-nz-us.png" tvg-name="Sky Sport 2 NZ",Sky Sport 2 NZ
+https://dokko1.iosplayer.ru/dokko1/premium589/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="590" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sky-sport-3-nz-us.png" tvg-name="Sky Sport 3 NZ",Sky Sport 3 NZ
+https://dokko1.iosplayer.ru/dokko1/premium590/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="591" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sky-sport-4-nz-us.png" tvg-name="Sky Sport 4 NZ",Sky Sport 4 NZ
+https://dokko1.iosplayer.ru/dokko1/premium591/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="592" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sky-sport-5-nz-us.png" tvg-name="Sky Sport 5 NZ",Sky Sport 5 NZ
+https://dokko1.iosplayer.ru/dokko1/premium592/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="593" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sky-sport-6-nz-us.png" tvg-name="Sky Sport 6 NZ",Sky Sport 6 NZ
+https://dokko1.iosplayer.ru/dokko1/premium593/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="594" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sky-sport-7-nz-us.png" tvg-name="Sky Sport 7 NZ",Sky Sport 7 NZ
+https://dokko1.iosplayer.ru/dokko1/premium594/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="595" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sky-sport-8-nz-us.png" tvg-name="Sky Sport 8 NZ",Sky Sport 8 NZ
+https://dokko1.iosplayer.ru/dokko1/premium595/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="596" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sky-sport-9-nz-us.png" tvg-name="Sky Sport 9 NZ",Sky Sport 9 NZ
+https://dokko1.iosplayer.ru/dokko1/premium596/mono.m3u8
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="587" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sky-sport-select-nz-us.png" tvg-name="Sky Sport Select NZ",Sky Sport Select NZ
+https://dokko1.iosplayer.ru/dokko1/premium587/mono.m3u8
+#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="GRANDSTAND.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-grandstand-za.png?raw=true" tvg-name="SuperSport Grandstand",SuperSport Grandstand
+https://zeko.iosplayer.ru/zeko/premium412/mono.m3u8
+#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="PSL.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-psl-za.png?raw=true" tvg-name="SuperSport PSL",SuperSport PSL
+https://zeko.iosplayer.ru/zeko/premium413/mono.m3u8
+#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="SS.Premier.League.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-premier-league-za.png?raw=true" tvg-name="SuperSport Premier league",SuperSport Premier league
+https://ddy6.iosplayer.ru/ddy6/premium414/mono.m3u8
+#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="LA.LIGA.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-laliga-za.png?raw=true" tvg-name="SuperSport LaLiga",SuperSport LaLiga
+https://ddy6.iosplayer.ru/ddy6/premium415/mono.m3u8
+#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="VARIETY.1.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety1-za.png?raw=true" tvg-name="SuperSport Variety 1",SuperSport Variety 1
+https://zeko.iosplayer.ru/zeko/premium416/mono.m3u8
+#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="VARIETY.2.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety2-za.png?raw=true" tvg-name="SuperSport Variety 2",SuperSport Variety 2
+https://wind.iosplayer.ru/wind/premium417/mono.m3u8
+#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="VARIETY.3.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety3-za.png?raw=true" tvg-name="SuperSport Variety 3",SuperSport Variety 3
+https://ddy6.iosplayer.ru/ddy6/premium418/mono.m3u8
+#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="ACTION.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-action-za.png?raw=true" tvg-name="SuperSport Action",SuperSport Action
+https://wind.iosplayer.ru/wind/premium420/mono.m3u8
+#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="RUGBY.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-rugby-za.png?raw=true" tvg-name="SuperSport Rugby",SuperSport Rugby
+https://zeko.iosplayer.ru/zeko/premium421/mono.m3u8
+#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="GOLF.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-golf-za.png?raw=true" tvg-name="SuperSport Golf",SuperSport Golf
+https://zeko.iosplayer.ru/zeko/premium422/mono.m3u8
+#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="TENNIS.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-tennis-za.png?raw=true" tvg-name="SuperSport Tennis",SuperSport Tennis
+https://zeko.iosplayer.ru/zeko/premium423/mono.m3u8
+#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="MOTORSPORT.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-motorsport-za.png?raw=true" tvg-name="SuperSport Motorsport",SuperSport Motorsport
+https://zeko.iosplayer.ru/zeko/premium424/mono.m3u8
+#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="CRICKET.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-cricket-za.png?raw=true" tvg-name="SuperSport Cricket",SuperSport Cricket
+https://zeko.iosplayer.ru/zeko/premium368/mono.m3u8
+#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="MAXIMO.1.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-maximo1-za.png?raw=true" tvg-name="SuperSport MaXimo 1",SuperSport MaXimo 1
+https://dokko1.iosplayer.ru/dokko1/premium572/mono.m3u8
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" tvg-name="TNT Sports 1",TNT Sports 1
+https://nfs.iosplayer.ru/nfs/premium31/mono.m3u8
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" tvg-name="TNT Sports 2",TNT Sports 2
+https://nfs.iosplayer.ru/nfs/premium32/mono.m3u8
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" tvg-name="TNT Sports 3",TNT Sports 3
+https://nfs.iosplayer.ru/nfs/premium33/mono.m3u8
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" tvg-name="TNT Sports 4",TNT Sports 4
+https://nfs.iosplayer.ru/nfs/premium34/mono.m3u8
+
