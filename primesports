@@ -1,27 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="Astro Malaysiad "123" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/astro-supersport-1-us.png" tvg-name="Astro SuperSport 1",Astro SuperSport 1
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-id="Astro.Grandstand.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/astro-supersport-2-us.png" tvg-name="Astro SuperSport 2",Astro SuperSport 1
 https://zeko.iosplayer.ru/zeko/premium123/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="124" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/astro-supersport-2-us.png" tvg-name="Astro SuperSport 2",Astro SuperSport 2
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-id="Astro.Football.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/astro-supersport-2-us.png" tvg-name="Astro SuperSport 2",Astro SuperSport 2
 https://wind.iosplayer.ru/wind/premium124/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="125" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/astro-supersport-3-us.png" tvg-name="Astro SuperSport 3",Astro SuperSport 3
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-id="Astro.Premier.League.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/astro-supersport-3-us.png" tvg-name="Astro SuperSport 3",Astro SuperSport 3
 https://zeko.iosplayer.ru/zeko/premium125/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="126" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/astro-supersport-4-us.png" tvg-name="Astro SuperSport 4",Astro SuperSport 4
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-id="Astro.Premier.League.2.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/astro-supersport-4-us.png" tvg-name="Astro SuperSport 4",Astro SuperSport 4
 https://zeko.iosplayer.ru/zeko/premium126/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="134" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/arena-sport-1-premium-us.png" tvg-name="Arena Sport 1 Premium",Arena Sport 1 Premium
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-id="134" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/arena-sport-1-premium-us.png" tvg-name="Arena Sport 1 Premium",Arena Sport 1 Premium
 https://wind.iosplayer.ru/wind/premium134/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="135" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/arena-sport-2-premium-us.png" tvg-name="Arena Sport 2 Premium",Arena Sport 2 Premium
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-id="135" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/arena-sport-2-premium-us.png" tvg-name="Arena Sport 2 Premium",Arena Sport 2 Premium
 https://ddy6.iosplayer.ru/ddy6/premium135/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="139" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/arena-sport-3-premium-us.png" tvg-name="Arena Sport 3 Premium",Arena Sport 3 Premium
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-id="139" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/arena-sport-3-premium-us.png" tvg-name="Arena Sport 3 Premium",Arena Sport 3 Premium
 https://ddy6.iosplayer.ru/ddy6/premium139/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="600" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abu-dhabi-sports-1-uae-us.png" tvg-name="Abu Dhabi Sports 1 UAE",Abu Dhabi Sports 1 UAE
-https://wind.iosplayer.ru/wind/premium600/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="601" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abu-dhabi-sports-2-uae-us.png" tvg-name="Abu Dhabi Sports 2 UAE",Abu Dhabi Sports 2 UAE
-https://dokko1.iosplayer.ru/dokko1/premium601/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="609" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abu-dhabi-sports-1-premium-us.png" tvg-name="Abu Dhabi Sports 1 Premium",Abu Dhabi Sports 1 Premium
-https://dokko1.iosplayer.ru/dokko1/premium609/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="610" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abu-dhabi-sports-2-premium-us.png" tvg-name="Abu Dhabi Sports 2 Premium",Abu Dhabi Sports 2 Premium
-https://dokko1.iosplayer.ru/dokko1/premium610/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="370" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/astro-cricket-us.png" tvg-name="Astro Cricket",Astro Cricket
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-id="Astro.Cricket.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/astro-cricket-us.png" tvg-name="Astro Cricket",Astro Cricket
 https://zeko.iosplayer.ru/zeko/premium370/mono.m3u8
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="61" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-mena-english-1-us.png" tvg-name="beIN Sports MENA English 1",beIN Sports MENA English 1
 https://wind.iosplayer.ru/wind/premium61/mono.m3u8
@@ -29,17 +21,17 @@ https://wind.iosplayer.ru/wind/premium61/mono.m3u8
 https://wind.iosplayer.ru/wind/premium46/mono.m3u8
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="425" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-usa-us.png" tvg-name="BeIN SPORTS USA",BeIN SPORTS USA
 https://zeko.iosplayer.ru/zeko/premium425/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="491" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-australia-1-us.png" tvg-name="beIN SPORTS Australia 1",beIN SPORTS Australia 1
+#EXTINF:-1 group-title="Australia" tvg-id="491" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-australia-1-us.png" tvg-name="beIN SPORTS Australia 1",beIN SPORTS Australia 1
 https://ddy6.iosplayer.ru/ddy6/premium491/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="492" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-australia-2-us.png" tvg-name="beIN SPORTS Australia 2",beIN SPORTS Australia 2
+#EXTINF:-1 group-title="Australia" tvg-id="beINSports1.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-australia-2-us.png" tvg-name="beIN SPORTS Australia 2",beIN SPORTS Australia 2
 https://ddy6.iosplayer.ru/ddy6/premium492/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="493" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-australia-3-us.png" tvg-name="beIN SPORTS Australia 3",beIN SPORTS Australia 3
+#EXTINF:-1 group-title="Australia" tvg-id="beINSports2.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-australia-3-us.png" tvg-name="beIN SPORTS Australia 3",beIN SPORTS Australia 3
 https://ddy6.iosplayer.ru/ddy6/premium493/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="44" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-usa-us.png" tvg-name="ESPN USA",ESPN USA
+#EXTINF:-1 group-title="espn" tvg-id="ESPN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-usa-us.png" tvg-name="ESPN USA",ESPN USA
 https://zeko.iosplayer.ru/zeko/premium44/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="45" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn2-usa-us.png" tvg-name="ESPN2 USA",ESPN2 USA
+#EXTINF:-1 group-title="espn" tvg-id="ESPN2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn2-usa-us.png" tvg-name="ESPN2 USA",ESPN2 USA
 https://wind.iosplayer.ru/wind/premium45/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="316" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espnu-usa-us.png" tvg-name="ESPNU USA",ESPNU USA
+#EXTINF:-1 group-title="espn" tvg-id="ESPN.U.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espnu-usa-us.png" tvg-name="ESPNU USA",ESPNU USA
 https://zeko.iosplayer.ru/zeko/premium316/mono.m3u8
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="41" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/eurosport-1-uk-us.png" tvg-name="EuroSport 1 UK",EuroSport 1 UK
 https://wind.iosplayer.ru/wind/premium41/mono.m3u8
