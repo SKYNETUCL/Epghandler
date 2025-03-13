@@ -77,25 +77,25 @@ https://wind.iosplayer.ru/wind/premium70/mono.m3u8
 https://ddy6.iosplayer.ru/ddy6/premium449/mono.m3u8
 #EXTINF:-1 group-title="SKY SPORTS UK" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-racing-uk.png?raw=true" tvg-name="Sky Sports Racing",Sky Sports Racing
 https://wind.iosplayer.ru/wind/premium554/mono.m3u8
-#EXTINF:-1 group-title="SKY NZ" tvg-id="588" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sky-sport-1-nz-us.png" tvg-name="Sky Sport 1 NZ",Sky Sport 1 NZ
+#EXTINF:-1 group-title="SKY NZ" tvg-id="SKY.Sport.1.nz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sky-sport-1-nz-us.png" tvg-name="Sky Sport 1 NZ",Sky Sport 1 NZ
 https://dokko1.iosplayer.ru/dokko1/premium588/mono.m3u8
-#EXTINF:-1 group-title="SKY NZ" tvg-id="589" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3459018_subscription-television-in-new-zealand-through-skysport-sky.png" tvg-name="Sky Sport 2 NZ",Sky Sport 2 NZ
+#EXTINF:-1 group-title="SKY NZ" tvg-id="SKY.Sport.2.nz" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3459018_subscription-television-in-new-zealand-through-skysport-sky.png" tvg-name="Sky Sport 2 NZ",Sky Sport 2 NZ
 https://dokko1.iosplayer.ru/dokko1/premium589/mono.m3u8
-#EXTINF:-1 group-title="SKY NZ" tvg-id="590" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3459018_subscription-television-in-new-zealand-through-skysport-sky.png" tvg-name="Sky Sport 3 NZ",Sky Sport 3 NZ
+#EXTINF:-1 group-title="SKY NZ" tvg-id="SKY.Sport.3.nz" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3459018_subscription-television-in-new-zealand-through-skysport-sky.png" tvg-name="Sky Sport 3 NZ",Sky Sport 3 NZ
 https://dokko1.iosplayer.ru/dokko1/premium590/mono.m3u8
-#EXTINF:-1 group-title="SKY NZ" tvg-id="591" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3459018_subscription-television-in-new-zealand-through-skysport-sky.png" tvg-name="Sky Sport 4 NZ",Sky Sport 4 NZ
+#EXTINF:-1 group-title="SKY NZ" tvg-id="SKY.Sport.4.nz" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3459018_subscription-television-in-new-zealand-through-skysport-sky.png" tvg-name="Sky Sport 4 NZ",Sky Sport 4 NZ
 https://dokko1.iosplayer.ru/dokko1/premium591/mono.m3u8
-#EXTINF:-1 group-title="SKY NZ" tvg-id="592" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3459018_subscription-television-in-new-zealand-through-skysport-sky.png" tvg-name="Sky Sport 5 NZ",Sky Sport 5 NZ
+#EXTINF:-1 group-title="SKY NZ" tvg-id="SKY.Sport.5.nz" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3459018_subscription-television-in-new-zealand-through-skysport-sky.png" tvg-name="Sky Sport 5 NZ",Sky Sport 5 NZ
 https://dokko1.iosplayer.ru/dokko1/premium592/mono.m3u8
-#EXTINF:-1 group-title="SKY NZ" tvg-id="593" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3459018_subscription-television-in-new-zealand-through-skysport-sky.png" tvg-name="Sky Sport 6 NZ",Sky Sport 6 NZ
+#EXTINF:-1 group-title="SKY NZ" tvg-id="SKY.Sport.6.nz" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3459018_subscription-television-in-new-zealand-through-skysport-sky.png" tvg-name="Sky Sport 6 NZ",Sky Sport 6 NZ
 https://dokko1.iosplayer.ru/dokko1/premium593/mono.m3u8
-#EXTINF:-1 group-title="SKY NZ" tvg-id="594" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3459018_subscription-television-in-new-zealand-through-skysport-sky.png" tvg-name="Sky Sport 7 NZ",Sky Sport 7 NZ
+#EXTINF:-1 group-title="SKY NZ" tvg-id="SKY.Sport.7.nz" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3459018_subscription-television-in-new-zealand-through-skysport-sky.png" tvg-name="Sky Sport 7 NZ",Sky Sport 7 NZ
 https://dokko1.iosplayer.ru/dokko1/premium594/mono.m3u8
-#EXTINF:-1 group-title="SKY NZ" tvg-id="595" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3459018_subscription-television-in-new-zealand-through-skysport-sky.png" tvg-name="Sky Sport 8 NZ",Sky Sport 8 NZ
+#EXTINF:-1 group-title="SKY NZ" tvg-id="SKY.Sport.8.nz" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3459018_subscription-television-in-new-zealand-through-skysport-sky.png" tvg-name="Sky Sport 8 NZ",Sky Sport 8 NZ
 https://dokko1.iosplayer.ru/dokko1/premium595/mono.m3u8
-#EXTINF:-1 group-title="SKY NZ" tvg-id="596" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3459018_subscription-television-in-new-zealand-through-skysport-sky.png" tvg-name="Sky Sport 9 NZ",Sky Sport 9 NZ
+#EXTINF:-1 group-title="SKY NZ" tvg-id="SKY.Sport.9.nz" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3459018_subscription-television-in-new-zealand-through-skysport-sky.png" tvg-name="Sky Sport 9 NZ",Sky Sport 9 NZ
 https://dokko1.iosplayer.ru/dokko1/premium596/mono.m3u8
-#EXTINF:-1 group-title="SKY NZ" tvg-id="587" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3459018_subscription-television-in-new-zealand-through-skysport-sky.png" tvg-name="Sky Sport Select NZ",Sky Sport Select NZ
+#EXTINF:-1 group-title="SKY NZ" tvg-id="SKY.Sport.Select.nz" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3459018_subscription-television-in-new-zealand-through-skysport-sky.png" tvg-name="Sky Sport Select NZ",Sky Sport Select NZ
 https://dokko1.iosplayer.ru/dokko1/premium587/mono.m3u8
 #EXTINF:-1 group-title="SuperSports" tvg-id="GRANDSTAND.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-grandstand-za.png?raw=true" tvg-name="SuperSport Grandstand",SuperSport Grandstand
 https://zeko.iosplayer.ru/zeko/premium412/mono.m3u8
