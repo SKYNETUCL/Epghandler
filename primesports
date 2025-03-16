@@ -133,4 +133,8 @@ https://nfs.iosplayer.ru/nfs/premium32/mono.m3u8
 https://nfs.iosplayer.ru/nfs/premium33/mono.m3u8
 #EXTINF:-1 group-title="TNT SPORTS UK" tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" tvg-name="TNT Sports 4",TNT Sports 4
 https://nfs.iosplayer.ru/nfs/premium34/mono.m3u8
+#EXTINF:-1 group-title="VIA PLAY" tvg-id="451" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/viaplay-sports-1-uk-us.png" tvg-name="Viaplay Sports 1 UK",Viaplay Sports 1 UK
+https://wind.iosplayer.ru/wind/premium451/mono.m3u8
+#EXTINF:-1 group-title="VIA PLAY" tvg-id="550" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/viaplay-sports-2-uk-us.png" tvg-name="Viaplay Sports 2 UK",Viaplay Sports 2 UK
+https://wind.iosplayer.ru/wind/premium550/mono.m3u8
 
